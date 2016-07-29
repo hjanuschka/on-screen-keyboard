@@ -315,8 +315,9 @@
 					'<span class="osk-on">}</span>' +
 				'</li>' +
 				'<li class="osk-symbol osk-last-item">' +
-					'<span class="osk-off">\\</span>' +
-					'<span class="osk-on">|</span>' +
+					'<span class="osk-on">\'</span>' +
+					'<span class="osk-off">@</span>' +
+					
 				'</li>' +
 				'<li class="osk-capslock">caps lock</li>' +
 				'<li class="osk-letter">a</li>' +
@@ -333,8 +334,8 @@
 					'<span class="osk-on">:</span>' +
 				'</li>' +
 				'<li class="osk-symbol">' +
-					'<span class="osk-off">\'</span>' +
-					'<span class="osk-on">@</span>' +
+					'<span class="osk-off">\\</span>' +
+					'<span class="osk-on">|</span>' +
 				'</li>' +
 				'<li class="osk-return osk-last-item">return</li>' +
 				'<li class="osk-shift">shift</li>' +
